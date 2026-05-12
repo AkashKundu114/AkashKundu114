@@ -1,2 +1,34 @@
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="akashkundu114" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/akashkundu114?trk=profile-badge">Akash Kundu</a></div>
-              
+```zsh
+> neofetch
+```
+
+```css
+sujalgoel@github
+-------------------------
+OS: macOS 14.4.1 23E224 arm64
+Host: Mac14,9
+Kernel: 23.4.0
+Shell: zsh 5.9
+CPU: Ryzen 5 8645HS
+GPU: GeForce RTX 3050
+-------------------------
+Name: Akash Kundu
+Uptime: 21 Years
+Pronouns: He/Him
+Location: India
+Runtime: Node.js
+Frameworks: React.js, Next.js
+Languages: JavaScript, TypeScript, Python
+About: An ardent full stack developer with a horrible music taste (vouched by many)
+-------------------------
+```
+
+
+![Views](https://hits.sh/github.com/akashkundu114/akashkundu114.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashkundu114/akashkundu114/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashkundu114/akashkundu114/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akashkundu114/akashkundu114/output/github-contribution-grid-snake.svg">
+</picture>
