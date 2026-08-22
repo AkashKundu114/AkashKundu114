@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi there, I'm Akash Kundu 👋
-
 ### Aspiring AI Engineer · Agentic Systems, RAG & Applied Computer Vision
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-akashkundu.me-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akashkundu.me)
