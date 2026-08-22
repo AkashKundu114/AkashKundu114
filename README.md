@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-akashkundu.me-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akashkundu.me)
 ![Views](https://hits.sh/github.com/akashkundu114/akashkundu114.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github)
 
-I build agentic AI systems, RAG pipelines, and computer vision models — from
+I build agentic AI systems, RAG pipelines, and computer vision models - from
 multi-agent orchestration with LangGraph to fine-tuned CNNs shipped behind
 production FastAPI endpoints. Currently interning at **Purposive AI**,
 building voice-first Bengali AI tools for social impact.
