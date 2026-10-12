@@ -7,8 +7,7 @@
 
 I build agentic AI systems, RAG pipelines, and computer vision models - from
 multi-agent orchestration with LangGraph to fine-tuned CNNs shipped behind
-production FastAPI endpoints. Currently interning at **Purposive AI**,
-building voice-first Bengali AI tools for social impact.
+production FastAPI endpoints. Currently building **C.O.P.P.E.R.**, personal AI assistant for everyday productivity.
 
 </div>
 
