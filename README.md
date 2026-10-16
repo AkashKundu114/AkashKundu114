@@ -1,126 +1,61 @@
-<div align="center">
+# Hi, I'm Akash Kundu 👋
 
-### Aspiring AI Engineer · Agentic Systems, RAG & Applied Computer Vision
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-akashkundu.me-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akashkundu.me)
-![Views](https://hits.sh/github.com/akashkundu114/akashkundu114.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github)
-
-I build agentic AI systems, RAG pipelines, and computer vision models - from
-multi-agent orchestration with LangGraph to fine-tuned CNNs shipped behind
-production FastAPI endpoints. Currently building **C.O.P.P.E.R.**, personal AI assistant for everyday productivity.
-
-</div>
-
-```zsh
-> neofetch
-```
-
-```css
-akashkundu114@github
--------------------------
-OS: Windows 11 
-Host: Portable Laptop
-Shell: PowerShell 
-CPU: AMD Ryzen 9 8940HX (2.40 GHz)
-GPU: NVIDIA GeForce RTX 5060 Laptop GPU (8 GB)
-     AMD Radeon(TM) 610M (483 MB)
-System: 64-bit operating system, x64-based processor
--------------------------
-Name: Akash Kundu
-Uptime: 22 Years
-Pronouns: He/Him
-Location: West Bengal, India
-Education: CSE @ Techno India University
-Languages: Java, C++, Python, TypeScript, SQL
-Frameworks: React.js, Next.js, FastAPI, Tailwind CSS
-Databases & Tools: PostgreSQL, MongoDB, Docker
-About: An ardent full-stack and AI developer building computer vision models and containerized apps. 
--------------------------
-```
+**AI Systems, Autonomous Agents & Machine Learning Research Engineer**  
+Kolkata, West Bengal, India • [akashkundu.me](https://akashkundu.me) • [akashkundu7487@gmail.com](mailto:akashkundu7487@gmail.com) • [LinkedIn](https://www.linkedin.com/in/akashkundu114/)
 
 ---
 
-### 💼 Experience
+### 🚀 Flagship Systems & Research
 
-**AI Research & Social Innovation Intern** · Purposive AI - Kolkata, India *(Hybrid, Part-Time)* · Jul 2026 – Aug 2026
+- **[C.O.P.P.E.R.](https://github.com/AkashKundu114/COPPER)** — *Local-First Autonomous Personal AI Operating System*
+  - 100% offline multi-agent architecture powered by a 14B Sovereign Core fleet across 12 specialized agent types.
+  - Sub-millisecond Topological Failure-Predicting (TFP) cascade router (<0.10ms, ~9,856 QPS dispatch).
+  - 100% Threat Catch across 350 adversarial test cases via DFM-Guard friction protocol.
+  - 685 automated tests (644 Pytest + 41 Vitest) and 25-page IEEE T-CE manuscript.
 
-- Cut manual bookkeeping effort for SHG women by **80%** building a Voice-Ledger FastAPI pipeline that auto-extracts Bengali voice notes into bank-submittable PDFs
-- Reduced scheme-matching hallucinations to **0%** with a RAG PDF chatbot using 2-stage per-chunk grounding verification
-- Eliminated OpenAI dependency entirely, routing 100% of inference through a Sarvam AI → Ollama fallback cascade
-- Orchestrated agents via LangGraph state machines + PostgreSQL, k-anonymizing seller market trends and offloading tasks to Celery within WhatsApp's 20s ack window
-- Sustained a **100% pass rate** across a 156-test offline suite guarding ledger validation and RAG grounding logic
+- **[OphthalmoAI](https://github.com/AkashKundu114/OphthalmoAI)** — *Point-of-Care Retinal Disease Screening Platform*
+  - Calibrated tri-backbone vision ensemble (DenseNet-201, ConvNeXt-Small, EfficientNet-V2-M).
+  - 85.18% 5-class test accuracy, 0.9818 Macro AUROC, and 0.0381 ECE via post-hoc Platt temperature scaling.
+  - In-browser edge screening via ONNX Runtime Web WASM (<2MB quantized MobileNetV3-Small INT8, 9.03ms latency).
+  - 335 passing tests (312 Pytest + 23 Vitest) with 91.30% DR sensitivity on external IDRiD clinical cohort.
 
----
+- **[Inductive Consensus Clustering (ICC-v2)](https://github.com/AkashKundu114/icc-clustering)** — *High-Dimensional Consensus Clustering*
+  - Linear O(N·D) unsupervised bimodality feature screening (VSSG) filtering distractor noise with 0.94-0.96 precision@50.
+  - Bipartite anchor co-association graph reducing auxiliary memory from O(N^2) to O(NL) (-74.2% peak RAM on D=5,000).
+  - Rank #1 cluster recovery on biomedical cancer microarrays (Leukemia ARI = 0.680 vs DEC 0.148).
+  - 113/113 automated pytest tests passing; submitted manuscripts to IEEE TKDE and IEEE ICDE.
 
-### 🎓 Certifications
-
-- 🟦 **Microsoft Certified:** Machine Learning Operations Engineer Associate (AI-300)
-- 🟥 **Oracle Certified:** AI Database Foundations Associate (1Z0-1195-26)
-- 🟦 **Microsoft Certified:** Azure AI Apps and Agents Developer Associate (AI-103)
-- 🟥 **Oracle Certified:** Agentic AI Foundations Associate (1Z0-1157-26)
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**AI / ML & Agents**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![EfficientNet](https://img.shields.io/badge/EfficientNet-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-**Backend & Frameworks**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Databases & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+- **[AI-SATHI (Kotha-Khata)](https://github.com/AkashKundu114/AI-SATHI)** — *Voice-First AI OS & Financial Ledger*
+  - Voice-ledger pipeline auto-extracting spoken Bengali into bank-submittable financial PDFs.
+  - 2-stage per-chunk grounding RAG chatbot eliminating scheme-matching hallucinations to 0.0%.
+  - Sarvam AI + Ollama fallback cascade deployed on Azure Container Apps. Field-tested with 8 rural SHGs.
+  - 389 automated tests passing across voice extraction and grounding validation.
 
 ---
 
-### 📊 GitHub Stats
+### 🎓 Industry Certifications
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AkashKundu114&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashKundu114&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashKundu114&theme=tokyonight&hide_border=true" />
-
-</div>
+- **Microsoft Certified:** Azure AI Apps and Agents Developer Associate (`AI-103`)
+- **Microsoft Certified:** Machine Learning Operations Engineer Associate (`AI-300`)
+- **Oracle Certified:** Agentic AI Foundations Associate (`1Z0-1157-26`)
+- **Oracle Certified:** AI Database Foundations Associate (`1Z0-1195-26`)
 
 ---
 
-<div align="center">
+### 💻 Core Tech Stack
 
-### 📫 Let's Connect
+- **Languages:** Python, TypeScript, JavaScript, SQL, C++, Java, Bash
+- **AI & Deep Learning:** PyTorch, ONNX / ONNX Runtime, Hugging Face, OpenCV, Scikit-learn, CatBoost, NumPy, SciPy
+- **Agentic & LLM Systems:** LangGraph, Ollama, DeepSeek-R1, Qwen2.5, ChromaDB, RAG, Whisper
+- **Backend & Cloud:** FastAPI, Node.js, PostgreSQL, SQLite (WAL), Redis, Docker, Azure Container Apps
+- **Frontend & Systems:** React 19 / 18, Electron, Vite, Tailwind CSS, Three.js (WebGL), PWA (Workbox)
+- **Quality & Testing:** Pytest, Vitest, Playwright E2E, ESLint, TypeScript Strict Mode, GitHub Actions CI/CD
 
-[![Portfolio](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akashkundu114.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkashKundu114)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashkundu1152@gmail.com)
+---
 
-*Building agentic AI systems and computer vision models - one repo at a time.*
+### 📊 Verified Engineering Highlights
 
-</div>
+- **4 Flagship Systems** actively synchronized across repositories with reproducible benchmarks.
+- **1,500+ Automated Tests** across production and research codebases.
+- **0.0% Hallucination & 100% Guardrail Intercept** in verified safety testing.
+- **Live Portfolio & Engineering Showcase:** [akashkundu.me](https://akashkundu.me)
