@@ -1,6 +1,6 @@
 # Akash Kundu
 
-**Final-year B.Tech CSE student at Techno India University**
+**Final-year B.Tech Computer Science student**
 
 Interested in AI/ML, generative AI, and software engineering. I learn by building projects and exploring research problems.
 
