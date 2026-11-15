@@ -1,61 +1,81 @@
 # Akash Kundu
 
-**AI Systems, Autonomous Agents & Machine Learning Research Engineer**  
-Kolkata, West Bengal, India • [akashkundu.me](https://akashkundu.me) • [akashkundu7487@gmail.com](mailto:akashkundu7487@gmail.com) • [LinkedIn](https://www.linkedin.com/in/akashkundu114/)
+**AI Engineer · Applied ML Research · Agentic Systems**
+
+Final-year B.Tech Computer Science student building AI systems that are measurable, reproducible, and useful beyond a demo.
+
+[Portfolio](https://akashkundu.me) · [LinkedIn](https://www.linkedin.com/in/akashkundu114/) · [GitHub](https://github.com/AkashKundu114)
 
 ---
 
-### Flagship Systems & Research
+## What I work on
 
-- **[C.O.P.P.E.R.](https://github.com/AkashKundu114/COPPER)** — *Local-First Autonomous Personal AI Operating System*
-  - 100% offline multi-agent architecture powered by a 14B Sovereign Core fleet across 12 specialized agent types.
-  - Sub-millisecond Topological Failure-Predicting (TFP) cascade router (<0.10ms, ~9,856 QPS dispatch).
-  - 100% Threat Catch across 350 adversarial test cases via DFM-Guard friction protocol.
-  - 685 automated tests (644 Pytest + 41 Vitest) and 25-page IEEE T-CE manuscript.
+- **Agentic AI & local-first systems** — multi-agent orchestration, tool-use boundaries, memory, evaluation, and privacy-aware execution.
+- **Machine learning research** — clustering in high-dimensional data, deep-learning vision systems, calibration, and reproducibility.
+- **Applied AI products** — voice-first interfaces, multilingual workflows, retrieval-grounded assistance, and human-in-the-loop systems.
+- **Engineering** — Python services, APIs, databases, React interfaces, Docker, CI, and testable deployment workflows.
 
-- **[OphthalmoAI](https://github.com/AkashKundu114/OphthalmoAI)** — *Point-of-Care Retinal Disease Screening Platform*
-  - Calibrated tri-backbone vision ensemble (DenseNet-201, ConvNeXt-Small, EfficientNet-V2-M).
-  - 85.18% 5-class test accuracy, 0.9818 Macro AUROC, and 0.0381 ECE via post-hoc Platt temperature scaling.
-  - In-browser edge screening via ONNX Runtime Web WASM (<2MB quantized MobileNetV3-Small INT8, 9.03ms latency).
-  - 335 passing tests (312 Pytest + 23 Vitest) with 91.30% DR sensitivity on external IDRiD clinical cohort.
+## Selected projects
 
-- **[Inductive Consensus Clustering (ICC-v2)](https://github.com/AkashKundu114/icc-clustering)** — *High-Dimensional Consensus Clustering*
-  - Linear O(N·D) unsupervised bimodality feature screening (VSSG) filtering distractor noise with 0.94-0.96 precision@50.
-  - Bipartite anchor co-association graph reducing auxiliary memory from O(N^2) to O(NL) (-74.2% peak RAM on D=5,000).
-  - Rank #1 cluster recovery on biomedical cancer microarrays (Leukemia ARI = 0.680 vs DEC 0.148).
-  - 113/113 automated pytest tests passing; submitted manuscripts to IEEE TKDE and IEEE ICDE.
+### Research
 
-- **[AI-SATHI (Kotha-Khata)](https://github.com/AkashKundu114/AI-SATHI)** — *Voice-First AI OS & Financial Ledger*
-  - Voice-ledger pipeline auto-extracting spoken Bengali into bank-submittable financial PDFs.
-  - 2-stage per-chunk grounding RAG chatbot eliminating scheme-matching hallucinations to 0.0%.
-  - Sarvam AI + Ollama fallback cascade deployed on Azure Container Apps. Field-tested with 8 rural SHGs.
-  - 389 automated tests passing across voice extraction and grounding validation.
+| Project | What it is |
+|---|---|
+| [CSD — Clustering Stability-Accuracy Discordance](https://github.com/AkashKundu114/clustering-stability-discordance) | Co-authored research software and evidence workflow studying why resampling stability can diverge from agreement with external labels in high-dimensional biomedical data. |
+| [ICC Clustering](https://github.com/AkashKundu114/icc-clustering) | Python research software for consensus clustering, anchor-graph methods, dataset handling, and comparative evaluation. The public repository deliberately separates software availability from research-result claims; see its [evidence status](https://github.com/AkashKundu114/icc-clustering/blob/main/docs/results.md). |
+| [NullConsensus](https://github.com/AkashKundu114/nullconsensus) | Follow-on research implementation exploring permutation-null feature calibration and count-aware gating, with a frozen pre-registration protocol. |
+| [OphthalmoAI](https://github.com/AkashKundu114/OphthalmoAI) | Retinal fundus screening research prototype combining deep vision models, probability calibration, Grad-CAM explainability, and browser-side ONNX inference. **Not a clinical diagnostic device.** |
 
----
+### AI systems & products
 
-### Industry Certifications
+| Project | What it is |
+|---|---|
+| [C.O.P.P.E.R.](https://github.com/AkashKundu114/COPPER) | Local-first personal AI runtime exploring specialized agents, routing, persistent memory, safety controls, and a desktop interface. Research prototype; benchmark limitations and open issues are documented in the repository. |
+| [AI-SATHI](https://github.com/AkashKundu114/AI-SATHI) | Voice-first financial assistant for Self-Help Group workflows, with Bengali voice processing, structured ledger extraction, grounded assistance, and report generation. Developed as part of an applied AI/social-innovation project. |
+| [Agentic Research Framework](https://github.com/AkashKundu114/agentic-research-framework) | Reproducible research workflow and agent-governance starter kit for multi-agent coding tools, experiment tracking, evidence-linked claims, and manuscript synchronization. |
 
-- **Microsoft Certified:** Azure AI Apps and Agents Developer Associate (`AI-103`)
-- **Microsoft Certified:** Machine Learning Operations Engineer Associate (`AI-300`)
-- **Oracle Certified:** Agentic AI Foundations Associate (`1Z0-1157-26`)
-- **Oracle Certified:** AI Database Foundations Associate (`1Z0-1195-26`)
+### Other engineering work
 
----
-
-### Core Tech Stack
-
-- **Languages:** Python, TypeScript, JavaScript, SQL, C++, Java, Bash
-- **AI & Deep Learning:** PyTorch, ONNX / ONNX Runtime, Hugging Face, OpenCV, Scikit-learn, CatBoost, NumPy, SciPy
-- **Agentic & LLM Systems:** LangGraph, Ollama, DeepSeek-R1, Qwen2.5, ChromaDB, RAG, Whisper
-- **Backend & Cloud:** FastAPI, Node.js, PostgreSQL, SQLite (WAL), Redis, Docker, Azure Container Apps
-- **Frontend & Systems:** React 19 / 18, Electron, Vite, Tailwind CSS, Three.js (WebGL), PWA (Workbox)
-- **Quality & Testing:** Pytest, Vitest, Playwright E2E, ESLint, TypeScript Strict Mode, GitHub Actions CI/CD
+- [SpecBridge](https://github.com/AkashKundu114/SpecBridge) — hardware/app compatibility and recommendation platform.
+- [ResumePilot](https://github.com/AkashKundu114/ResumePilot) — AI-assisted resume workflow.
+- [DemoTradingBot](https://github.com/AkashKundu114/DemoTradingBot) — Python CLI for Binance Futures demo trading, with Decimal-based order validation and dry-run support.
+- [TenantAPI](https://github.com/AkashKundu114/TenantAPI) — tenant-scoped API and data-access example.
+- [AI Engineer 2027 Roadmap](https://github.com/AkashKundu114/AIEngineer2027) — curated learning path for building and operating AI applications.
 
 ---
 
-### Verified Engineering Highlights
+## Technical toolkit
 
-- **4 Flagship Systems** actively synchronized across repositories with reproducible benchmarks.
-- **1,500+ Automated Tests** across production and research codebases.
-- **0.0% Hallucination & 100% Guardrail Intercept** in verified safety testing.
-- **Live Portfolio & Engineering Showcase:** [akashkundu.me](https://akashkundu.me)
+**Languages**  
+Python · TypeScript · JavaScript · Java · C++ · SQL · Bash
+
+**AI / ML**  
+PyTorch · TensorFlow · scikit-learn · CatBoost · OpenCV · ONNX Runtime · Hugging Face · computer vision · model evaluation
+
+**LLM & agent systems**  
+LangGraph · LangChain · Ollama · RAG · vector search · tool calling · agent evaluation · speech interfaces
+
+**Backend & infrastructure**  
+FastAPI · Node.js · PostgreSQL · SQLite · MongoDB · Docker · Linux · GitHub Actions
+
+**Frontend**  
+React · Vite · Electron · Tailwind CSS
+
+## Certifications
+
+- Microsoft Certified: Azure AI Apps and Agents Developer Associate (AI-103)
+- Oracle Certified: Agentic AI Foundations Associate
+- Oracle Certified: AI Database Foundations Associate
+
+## How I approach engineering
+
+- Treat benchmarks as hypotheses to verify, not marketing numbers.
+- Keep research claims linked to code, data provenance, and reproducible evidence.
+- Design for failure modes, security boundaries, and human review—not only the happy path.
+- Prefer clear limitations over unsupported claims.
+
+---
+
+**Currently focused on:** AI engineering, agentic systems, applied ML research, and building a strong research-to-production engineering portfolio.
+
+[Portfolio website](https://akashkundu.me) · [Connect on LinkedIn](https://www.linkedin.com/in/akashkundu114/)
