@@ -30,7 +30,7 @@ Final-year B.Tech Computer Science student building AI systems that are measurab
 
 | Project | What it is |
 |---|---|
-| [C.O.P.P.E.R.](https://github.com/AkashKundu114/COPPER) | Local-first personal AI runtime exploring specialized agents, routing, persistent memory, safety controls, and a desktop interface. Research prototype; benchmark limitations and open issues are documented in the repository. |
+| [C.O.P.P.E.R.](https://github.com/AkashKundu114/COPPER) | Local-first personal AI runtime exploring specialized agents, routing, persistent memory, safety controls, and a desktop interface. Research prototype; see the [benchmark-validity review](https://github.com/AkashKundu114/COPPER/blob/main/BENCHMARK_VALIDITY_REPORT.md) before interpreting its reported results. |
 | [AI-SATHI](https://github.com/AkashKundu114/AI-SATHI) | Voice-first financial assistant for Self-Help Group workflows, with Bengali voice processing, structured ledger extraction, grounded assistance, and report generation. Developed as part of an applied AI/social-innovation project. |
 | [Agentic Research Framework](https://github.com/AkashKundu114/agentic-research-framework) | Reproducible research workflow and agent-governance starter kit for multi-agent coding tools, experiment tracking, evidence-linked claims, and manuscript synchronization. |
 
