@@ -33,6 +33,7 @@ Interested in AI/ML, generative AI, and software engineering. I learn by buildin
 | [C.O.P.P.E.R.](https://github.com/AkashKundu114/COPPER) | Local-first personal AI runtime exploring specialized agents, routing, persistent memory, safety controls, and a desktop interface. Research prototype; see the [benchmark-validity review](https://github.com/AkashKundu114/COPPER/blob/main/BENCHMARK_VALIDITY_REPORT.md) before interpreting its reported results. |
 | [AI-SATHI](https://github.com/AkashKundu114/AI-SATHI) | Voice-first financial assistant for Self-Help Group workflows, with Bengali voice processing, structured ledger extraction, grounded assistance, and report generation. Developed as part of an applied AI/social-innovation project. |
 | [Agentic Research Framework](https://github.com/AkashKundu114/agentic-research-framework) | Reproducible research workflow and agent-governance starter kit for multi-agent coding tools, experiment tracking, evidence-linked claims, and manuscript synchronization. |
+| **XERJ Engine & MCP Tools** | AI-native search and cross-session memory architecture featuring AST-aware passage retrieval, Elasticsearch wire-compatibility, zero-config indexing, and 13 Model Context Protocol (MCP) tool integrations. |
 
 ### Other engineering work
 
@@ -46,8 +47,8 @@ Interested in AI/ML, generative AI, and software engineering. I learn by buildin
 ## Skills
 
 - **Languages:** Python, JavaScript, TypeScript, Java, SQL
-- **AI/ML:** PyTorch, scikit-learn, LangGraph
-- **Development:** FastAPI, React, PostgreSQL, Docker, Git
+- **AI/ML:** PyTorch, scikit-learn, LangGraph, Model Context Protocol (MCP), Vector Search
+- **Development:** FastAPI, React, PostgreSQL, Docker, Git, Elasticsearch / AST Indexing
 
 ## Certifications
 
