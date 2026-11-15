@@ -22,7 +22,7 @@ Interested in AI/ML, generative AI, and software engineering. I learn by buildin
 | Project | What it is |
 |---|---|
 | [CSD - Clustering Stability-Accuracy Discordance](https://github.com/AkashKundu114/clustering-stability-discordance) | Co-authored research software and evidence workflow studying why resampling stability can diverge from agreement with external labels in high-dimensional biomedical data. |
-| [ICC Clustering](https://github.com/AkashKundu114/icc-clustering) | Python research software for consensus clustering, anchor-graph methods, dataset handling, and comparative evaluation. The public repository deliberately separates software availability from research-result claims; see its [evidence status](https://github.com/AkashKundu114/icc-clustering/blob/main/docs/results.md). |
+| [ICC Clustering](https://github.com/AkashKundu114/icc-clustering)<br>[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/AkashKundu114/badge.svg)](https://hub.xerj.org/contributors/AkashKundu114) | Python research software for consensus clustering, anchor-graph methods, dataset handling, and comparative evaluation. Indexed in the [XERJ Corpus Hub](https://hub.xerj.org/contributors/AkashKundu114) as a reference corpus for AI agent navigation and AST-aware search. See its [evidence status](https://github.com/AkashKundu114/icc-clustering/blob/main/docs/results.md). |
 | [NullConsensus](https://github.com/AkashKundu114/nullconsensus) | Follow-on research implementation exploring permutation-null feature calibration and count-aware gating, with a frozen pre-registration protocol. |
 | [OphthalmoAI](https://github.com/AkashKundu114/OphthalmoAI) | Retinal fundus screening research prototype combining deep vision models, probability calibration, Grad-CAM explainability, and browser-side ONNX inference. **Not a clinical diagnostic device.** |
 
@@ -33,7 +33,6 @@ Interested in AI/ML, generative AI, and software engineering. I learn by buildin
 | [C.O.P.P.E.R.](https://github.com/AkashKundu114/COPPER) | Local-first personal AI runtime exploring specialized agents, routing, persistent memory, safety controls, and a desktop interface. Research prototype; see the [benchmark-validity review](https://github.com/AkashKundu114/COPPER/blob/main/BENCHMARK_VALIDITY_REPORT.md) before interpreting its reported results. |
 | [AI-SATHI](https://github.com/AkashKundu114/AI-SATHI) | Voice-first financial assistant for Self-Help Group workflows, with Bengali voice processing, structured ledger extraction, grounded assistance, and report generation. Developed as part of an applied AI/social-innovation project. |
 | [Agentic Research Framework](https://github.com/AkashKundu114/agentic-research-framework) | Reproducible research workflow and agent-governance starter kit for multi-agent coding tools, experiment tracking, evidence-linked claims, and manuscript synchronization. |
-| **XERJ Engine & MCP Tools** | AI-native search and cross-session memory architecture featuring AST-aware passage retrieval, Elasticsearch wire-compatibility, zero-config indexing, and 13 Model Context Protocol (MCP) tool integrations. |
 
 ### Other engineering work
 
@@ -47,8 +46,8 @@ Interested in AI/ML, generative AI, and software engineering. I learn by buildin
 ## Skills
 
 - **Languages:** Python, JavaScript, TypeScript, Java, SQL
-- **AI/ML:** PyTorch, scikit-learn, LangGraph, Model Context Protocol (MCP), Vector Search
-- **Development:** FastAPI, React, PostgreSQL, Docker, Git, Elasticsearch / AST Indexing
+- **AI/ML:** PyTorch, scikit-learn, LangGraph
+- **Development:** FastAPI, React, PostgreSQL, Docker, Git
 
 ## Certifications
 
