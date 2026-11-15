@@ -51,10 +51,7 @@ Interested in AI/ML, generative AI, and software engineering. I learn by buildin
 
 ## Certifications
 
-- **Microsoft Certified: Machine Learning Operations Engineer Associate**
-  - Earned: August 2, 2026
-  - Credential ID: 1 BA8E6E632A47E48
-  - Certification number: 6485B9-9R34A8
+- Microsoft Certified: Machine Learning Operations Engineer Associate (AI-300)
 - Microsoft Certified: Azure AI Apps and Agents Developer Associate (AI-103)
 - Oracle Certified: Agentic AI Foundations Associate
 - Oracle Certified: AI Database Foundations Associate
