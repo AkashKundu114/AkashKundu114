@@ -1,19 +1,19 @@
 # Akash Kundu
 
-**Final-year B.Tech CSE Student · AI/ML & GenAI Enthusiast · Research & Engineering**
+**Final-year B.Tech CSE student at Techno India University**
 
-I’m a Computer Science undergraduate at Techno India University, currently in my final year. I enjoy learning by building — exploring machine learning, generative AI, agentic systems, and research-oriented software projects. I’m still growing as an engineer, and I use my projects to turn concepts into practical, testable systems.
+Interested in AI/ML, generative AI, and software engineering. I learn by building projects and exploring research problems.
 
 [Portfolio](https://akashkundu.me) · [LinkedIn](https://www.linkedin.com/in/akashkundu114/) · [GitHub](https://github.com/AkashKundu114)
 
 ---
 
-## Areas I'm exploring
+## Interests
 
-- **Agentic AI & local-first systems** — multi-agent orchestration, tool-use boundaries, memory, evaluation, and privacy-aware execution.
-- **Machine learning research** — clustering in high-dimensional data, deep-learning vision systems, calibration, and reproducibility.
-- **Applied AI products** — voice-first interfaces, multilingual workflows, retrieval-grounded assistance, and human-in-the-loop systems.
-- **Engineering** — Python services, APIs, databases, React interfaces, Docker, CI, and testable deployment workflows.
+- Machine learning and deep learning
+- Generative AI and agent-based applications
+- Applied research and reproducible experiments
+- Backend development and practical software engineering
 
 ## Selected projects
 
@@ -21,7 +21,7 @@ I’m a Computer Science undergraduate at Techno India University, currently in 
 
 | Project | What it is |
 |---|---|
-| [CSD — Clustering Stability-Accuracy Discordance](https://github.com/AkashKundu114/clustering-stability-discordance) | Co-authored research software and evidence workflow studying why resampling stability can diverge from agreement with external labels in high-dimensional biomedical data. |
+| [CSD - Clustering Stability-Accuracy Discordance](https://github.com/AkashKundu114/clustering-stability-discordance) | Co-authored research software and evidence workflow studying why resampling stability can diverge from agreement with external labels in high-dimensional biomedical data. |
 | [ICC Clustering](https://github.com/AkashKundu114/icc-clustering) | Python research software for consensus clustering, anchor-graph methods, dataset handling, and comparative evaluation. The public repository deliberately separates software availability from research-result claims; see its [evidence status](https://github.com/AkashKundu114/icc-clustering/blob/main/docs/results.md). |
 | [NullConsensus](https://github.com/AkashKundu114/nullconsensus) | Follow-on research implementation exploring permutation-null feature calibration and count-aware gating, with a frozen pre-registration protocol. |
 | [OphthalmoAI](https://github.com/AkashKundu114/OphthalmoAI) | Retinal fundus screening research prototype combining deep vision models, probability calibration, Grad-CAM explainability, and browser-side ONNX inference. **Not a clinical diagnostic device.** |
@@ -36,30 +36,17 @@ I’m a Computer Science undergraduate at Techno India University, currently in 
 
 ### Other engineering work
 
-- [SpecBridge](https://github.com/AkashKundu114/SpecBridge) — hardware/app compatibility and recommendation platform.
-- [ResumePilot](https://github.com/AkashKundu114/ResumePilot) — AI-assisted resume workflow.
-- [DemoTradingBot](https://github.com/AkashKundu114/DemoTradingBot) — Python CLI for Binance Futures demo trading, with Decimal-based order validation and dry-run support.
-- [TenantAPI](https://github.com/AkashKundu114/TenantAPI) — tenant-scoped API and data-access example.
-- [AI Engineer 2027 Roadmap](https://github.com/AkashKundu114/AIEngineer2027) — curated learning path for building and operating AI applications.
+- [SpecBridge](https://github.com/AkashKundu114/SpecBridge) - hardware/app compatibility and recommendation platform.
+- [ResumePilot](https://github.com/AkashKundu114/ResumePilot) - AI-assisted resume workflow.
+- [DemoTradingBot](https://github.com/AkashKundu114/DemoTradingBot) - Python CLI for Binance Futures demo trading, with Decimal-based order validation and dry-run support.
+- [TenantAPI](https://github.com/AkashKundu114/TenantAPI) - tenant-scoped API and data-access example.
+- [AI Engineer 2027 Roadmap](https://github.com/AkashKundu114/AIEngineer2027) - curated learning path for building and operating AI applications.
 
 ---
 
-## Technical toolkit
+## Skills
 
-**Languages**  
-Python · TypeScript · JavaScript · Java · C++ · SQL · Bash
-
-**AI / ML**  
-PyTorch · TensorFlow · scikit-learn · CatBoost · OpenCV · ONNX Runtime · Hugging Face · computer vision · model evaluation
-
-**LLM & agent systems**  
-LangGraph · LangChain · Ollama · RAG · vector search · tool calling · agent evaluation · speech interfaces
-
-**Backend & infrastructure**  
-FastAPI · Node.js · PostgreSQL · SQLite · MongoDB · Docker · Linux · GitHub Actions
-
-**Frontend**  
-React · Vite · Electron · Tailwind CSS
+**Most-used:** Python · JavaScript · TypeScript · Java · SQL · PyTorch · scikit-learn · FastAPI · React · LangGraph · PostgreSQL · Docker · Git
 
 ## Certifications
 
@@ -67,15 +54,34 @@ React · Vite · Electron · Tailwind CSS
 - Oracle Certified: Agentic AI Foundations Associate
 - Oracle Certified: AI Database Foundations Associate
 
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkashKundu114&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashKundu114&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AkashKundu114&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkashKundu114&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkashKundu114&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</p>
+
 ## How I approach engineering
 
 - Treat benchmarks as hypotheses to verify, not marketing numbers.
 - Keep research claims linked to code, data provenance, and reproducible evidence.
-- Design for failure modes, security boundaries, and human review—not only the happy path.
+- Design for failure modes, security boundaries, and human review-not only the happy path.
 - Prefer clear limitations over unsupported claims.
 
 ---
 
-**Currently focused on:** completing my B.Tech, strengthening my foundations in AI/ML and software engineering, and learning through research and hands-on projects.
+**Currently:** Final-year B.Tech CSE student, building projects and preparing for opportunities in AI/ML and software development.
 
 [Portfolio website](https://akashkundu.me) · [Connect on LinkedIn](https://www.linkedin.com/in/akashkundu114/)
