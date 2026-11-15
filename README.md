@@ -40,7 +40,6 @@ Interested in AI/ML, generative AI, and software engineering. I learn by buildin
 - [ResumePilot](https://github.com/AkashKundu114/ResumePilot) - AI-assisted resume workflow.
 - [DemoTradingBot](https://github.com/AkashKundu114/DemoTradingBot) - Python CLI for Binance Futures demo trading, with Decimal-based order validation and dry-run support.
 - [TenantAPI](https://github.com/AkashKundu114/TenantAPI) - tenant-scoped API and data-access example.
-- [AI Engineer 2027 Roadmap](https://github.com/AkashKundu114/AIEngineer2027) - curated learning path for building and operating AI applications.
 
 ---
 
