@@ -1,14 +1,14 @@
 # Akash Kundu
 
-**AI Engineer · Applied ML Research · Agentic Systems**
+**Final-year B.Tech CSE Student · AI/ML & GenAI Enthusiast · Research & Engineering**
 
-Final-year B.Tech Computer Science student building AI systems that are measurable, reproducible, and useful beyond a demo.
+I’m a Computer Science undergraduate at Techno India University, currently in my final year. I enjoy learning by building — exploring machine learning, generative AI, agentic systems, and research-oriented software projects. I’m still growing as an engineer, and I use my projects to turn concepts into practical, testable systems.
 
 [Portfolio](https://akashkundu.me) · [LinkedIn](https://www.linkedin.com/in/akashkundu114/) · [GitHub](https://github.com/AkashKundu114)
 
 ---
 
-## What I work on
+## Areas I'm exploring
 
 - **Agentic AI & local-first systems** — multi-agent orchestration, tool-use boundaries, memory, evaluation, and privacy-aware execution.
 - **Machine learning research** — clustering in high-dimensional data, deep-learning vision systems, calibration, and reproducibility.
@@ -76,6 +76,6 @@ React · Vite · Electron · Tailwind CSS
 
 ---
 
-**Currently focused on:** AI engineering, agentic systems, applied ML research, and building a strong research-to-production engineering portfolio.
+**Currently focused on:** completing my B.Tech, strengthening my foundations in AI/ML and software engineering, and learning through research and hands-on projects.
 
 [Portfolio website](https://akashkundu.me) · [Connect on LinkedIn](https://www.linkedin.com/in/akashkundu114/)
