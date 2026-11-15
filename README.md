@@ -57,8 +57,8 @@ Interested in AI/ML, generative AI, and software engineering. I learn by buildin
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkashKundu114&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashKundu114&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AkashKundu114&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AkashKundu114&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ Interested in AI/ML, generative AI, and software engineering. I learn by buildin
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkashKundu114&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+  <a href="https://github.com/AkashKundu114?tab=achievements">View my GitHub achievements</a>
 </p>
 
 <p align="center">
