@@ -45,10 +45,16 @@ Interested in AI/ML, generative AI, and software engineering. I learn by buildin
 
 ## Skills
 
-**Most-used:** Python · JavaScript · TypeScript · Java · SQL · PyTorch · scikit-learn · FastAPI · React · LangGraph · PostgreSQL · Docker · Git
+- **Languages:** Python, JavaScript, TypeScript, Java, SQL
+- **AI/ML:** PyTorch, scikit-learn, LangGraph
+- **Development:** FastAPI, React, PostgreSQL, Docker, Git
 
 ## Certifications
 
+- **Microsoft Certified: Machine Learning Operations Engineer Associate**
+  - Earned: August 2, 2026
+  - Credential ID: 1 BA8E6E632A47E48
+  - Certification number: 6485B9-9R34A8
 - Microsoft Certified: Azure AI Apps and Agents Developer Associate (AI-103)
 - Oracle Certified: Agentic AI Foundations Associate
 - Oracle Certified: AI Database Foundations Associate
